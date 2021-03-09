@@ -1,0 +1,2 @@
+no terminal:
+yarn add ejs express socket.io
