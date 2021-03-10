@@ -25,5 +25,5 @@ io.on('connection', socket => {
     })
 });
 
-// server.listen(3000); //ouvira a porta 3000
-server.listen('https://chat-smoky-pi.vercel.app/');
+server.listen(4000); //ouvira a porta 3000
+// server.listen('https://chat-smoky-pi.vercel.app/');
